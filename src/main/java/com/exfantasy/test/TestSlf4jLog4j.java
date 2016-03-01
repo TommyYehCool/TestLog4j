@@ -26,7 +26,7 @@ public class TestSlf4jLog4j {
 			ioEx.printStackTrace();
 		}
 
-		logger.debug("This is debug msg, name: {}", "Tommy");
+		logger.debug("This is debug msg, name: {}", "葉韶峰");
 		logger.info("This is info msg");
 	}
 }
