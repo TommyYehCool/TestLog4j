@@ -1,0 +1,6 @@
+[2016-03-01 09:36:24,908][DEBUG][main][Class:com.exfantasy.test.TestSlf4jLog4j,Method:main,Line:29] This is debug msg, name: Tommy
+[2016-03-01 09:36:24,910][INFO ][main][Class:com.exfantasy.test.TestSlf4jLog4j,Method:main,Line:30] This is info msg
+[2016-03-01 09:36:49,034][DEBUG][main][Class:TestSlf4jLog4j,Method:main,Line:29] This is debug msg, name: Tommy
+[2016-03-01 09:36:49,036][INFO ][main][Class:TestSlf4jLog4j,Method:main,Line:30] This is info msg
+[2016-03-01 09:37:06,324][DEBUG][main][Class:com.exfantasy.test.TestSlf4jLog4j,Method:main,Line:29] This is debug msg, name: Tommy
+[2016-03-01 09:37:06,326][INFO ][main][Class:com.exfantasy.test.TestSlf4jLog4j,Method:main,Line:30] This is info msg
